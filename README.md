@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Driver Drowsiness Detection System
 
 A real-time driver drowsiness detection system using **OpenCV** and **MediaPipe Face Mesh**. It monitors eye closure using the Eye Aspect Ratio (EAR) and alerts the driver when drowsiness is detected.
@@ -23,7 +23,7 @@ A real-time driver drowsiness detection system using **OpenCV** and **MediaPipe 
 
 ```bash
 pip install opencv-python mediapipe numpy
-```
+
 
 ## Usage
 
